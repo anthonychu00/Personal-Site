@@ -41,6 +41,10 @@ a:hover{
 	height:100%;
 }
 
+#statement{
+	height:100%;
+}
+
 @media (max-width: 449px) {
     
 
