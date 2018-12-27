@@ -1,5 +1,4 @@
 
-
 var coll = document.getElementsByClassName("collapse");
 var i;
 
