@@ -89,6 +89,8 @@ a:hover{
         width: 100%;
         text-align: center;
         background: AliceBlue;
+        z-index:1;
+        height:50px;
     }
     
     .nav {
@@ -248,6 +250,7 @@ padding: 1%;
         width: 100%;
         text-align: center;
         background: AliceBlue;
+     	z-index:1000;
     }
     
     .nav {
@@ -414,6 +417,7 @@ padding: 1%;
         position: absolute;
         padding-right: 3%;
         letter-spacing: 1.2px;
+        z-index:100;
     }
     
     #navbar{
@@ -422,6 +426,7 @@ padding: 1%;
         width: 100%;
         text-align: center;
         background: AliceBlue;
+        z-index: 100;
     }
     
     .nav {
@@ -430,6 +435,7 @@ padding: 1%;
     position: relative;
     float: right;
     padding-right: 2%;
+    z-index:100;
     }
 
 
@@ -440,6 +446,7 @@ padding: 1%;
     padding: 0;
     letter-spacing: 1.2px;
     vertical-align: middle;
+    z-index:100;
     }
     
     #home{
@@ -568,12 +575,14 @@ padding: 1%;
 	text-align: center;
 	margin-top:25px;
 	margin-bottom:25px;
+	
 }
 .active, .collapse:hover {
   transform: translate(0px, 5px);
   transform: scale(1.05);
   background-color: Turquoise;
   transition-duration: 0.4s;
+  z-index:-1;
 }
 
 
