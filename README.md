@@ -2,4 +2,5 @@
 Personal Site Using Github
 
 
-Visit it at anthonychu00.github.io
+Visit it at [anthonychu00.github.io](anthonychu00.github.io)
+
