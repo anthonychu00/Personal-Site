@@ -120,7 +120,7 @@ a:hover{
     }
     
     #about .parallax1 {
-    background-image: url(./img/Again.jpg);
+    background-image: url(./img/hello.jpg);
 }
     #about .parallax2 {
     background-image: url(./img/Concert.jpg);
@@ -280,7 +280,7 @@ padding: 1%;
     }
     
     #about .parallax1 {
-    background-image: url(./img/Again.jpg);
+    background-image: url(./img/hello.jpg);
 }
     
     #about .parallax2 {
@@ -354,7 +354,7 @@ padding: 1%;
     #left{
 /*        font-size: 1em;*/
         width: 48%;
-        padding-right: 4%;
+        padding-right: 4%;      
         float: left;
         position: relative;
         display: inline-block;
@@ -457,7 +457,7 @@ padding: 1%;
     }
     
     #about .parallax1 {
-    background-image: url(./img/Again.jpg);
+    background-image: url(./img/hello.jpg);
 }
     
     #about .parallax2 {
@@ -516,7 +516,7 @@ padding: 1%;
 }
 
     #left, #right{
-        top: 50%;
+        padding-top: 15%;     
         -webkit-transform: translateY(-50%);
                 transform: translateY(-50%);
     }    
@@ -526,6 +526,7 @@ padding: 1%;
 }
     
     #left{
+        
         width: 48%;
         padding-right: 4%;
         float: left;
